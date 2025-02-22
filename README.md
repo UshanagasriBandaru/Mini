@@ -1,8 +1,21 @@
- Contents
-- Meeting 2 _file 
-  - Implemented a single neuron neural network  
-  - Worked with linear and non-linear data  
-  - Evaluated model performance using F1 Score, Recall, Precision, and Accuracy  
+MINI PROJECT 
 
-- Full Code File 
-  - Developed a neural network for multiclass classification  
+
+
+ 📌 Contents
+
+ 🔹 Meeting 2 File
+- Implemented a single neuron neural network  
+- Worked with linear and non-linear data  
+- Evaluated model performance using:
+  - F1 Score
+  - Recall
+  - Precision
+  - Accuracy
+
+ 🔹Full Code File
+- Developed a neural network for multiclass classificatio
+
+🔹 Regex File (regex101.com Expressions)
+- Contains various regular expressions tested on [regex101.com](https://regex101.com/)
+
